@@ -1,5 +1,4 @@
 # HTML Lab
-===========
 
 This repository contains HTML-based experiments focused on exploring web markup structure, semantics, and layout concepts.
 
